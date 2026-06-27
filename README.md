@@ -112,17 +112,17 @@ La structure détaillée du projet ainsi que le rôle de chaque dossier sont dis
 
 # 📚 Documentation
 
-Toute la documentation technique est regroupée dans le dossier **`docs/`**.
+Toute la documentation est disponible dans le dossier [docs/](docs/)
 
 | Document | Description |
 |----------|-------------|
-| 📖 **README.md** | Sommaire de la documentation |
-| 📐 **architecture.md** | Architecture matérielle et logicielle |
-| 📦 **bom.md** | Bill of Materials (liste des composants) |
-| 🔌 **hardware.md** | Documentation électronique |
-| 💻 **software.md** | Architecture logicielle |
-| 📡 **can-bus.md** | Documentation du réseau CAN |
-| 🔧 **wiring.md** | Plans de câblage |
+| 📖 [README.md](docs/README.md) | Sommaire de la documentation |
+| 📐 [architecture.md](docs/architecture.md) | Architecture matérielle et logicielle |
+| 📦 [bom.md](docs/bom.md) | Bill of Materials (liste des composants) |
+| 🔌 [hardware.md](docs/hardware.md) | Documentation électronique |
+| 💻 [software.md](docs/software.md) | Architecture logicielle |
+| 📡 [can-bus.md](docs/can-bus.md) | Documentation du réseau CAN |
+| 🔧 [wiring.md](docs/wiring.md) | Plans de câblage |
 
 ---
 
